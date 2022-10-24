@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clavi-k&show_icons=true&locale=en&layout=compact" alt="clavi-k" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clavi-k&show_icons=true&locale=en" alt="clavi-k" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=clavi-k&show_icons=true&locale=en" alt="clavi-k" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clavi-k&label=Profile%20views&color=0e75b6&style=flat" alt="clavi-k" /> </p>
 
