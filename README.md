@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
 
-- 👨‍💻 All of my projects are available at (Coming soon!)
+- 👨‍💻 All of my projects are available at [https://schmidtportfolio.netlify.app/]
 
 - 📫 How to reach me **luciano43schmidt@gmail.com**
 
